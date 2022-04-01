@@ -1,0 +1,206 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1595" height="480" role="img" focusable="false">
+    <defs aria-hidden="true">
+        <linearGradient id="round1" x1="0" x2="1" y1="1" y2="1">
+            <stop offset="0%" stop-color="#6D3385" stop-opacity="1"></stop>
+            <stop offset="100%" stop-color="#8D4CA8" stop-opacity="1"></stop>
+        </linearGradient>
+        <linearGradient id="round2" x1="0" x2="1" y1="1" y2="1">
+            <stop offset="0%" stop-color="#C185DA" stop-opacity="1"></stop>
+            <stop offset="100%" stop-color="#D5A7E8" stop-opacity="1"></stop>
+        </linearGradient>
+        <linearGradient id="round3" x1="0" x2="1" y1="1" y2="1">
+            <stop offset="0%" stop-color="#47CFED" stop-opacity="1"></stop>
+            <stop offset="100%" stop-color="#2EB1CE" stop-opacity="1"></stop>
+        </linearGradient>
+    </defs>
+    <rect width="1595" height="480" fill="transparent"></rect>
+    <g transform="translate(198,40)">
+        <rect y="333" width="1595" height="46" fill="#303435"></rect>
+        <rect y="241" width="1595" height="46" fill="#303435"></rect>
+        <rect y="149" width="1595" height="46" fill="#303435"></rect>
+        <rect y="57" width="1595" height="46" fill="#303435"></rect>
+        <rect y="333" width="1595" height="46" fill="#303435"></rect>
+        <rect y="241" width="1595" height="46" fill="#303435"></rect>
+        <rect y="149" width="1595" height="46" fill="#303435"></rect>
+        <rect y="57" width="1595" height="46" fill="#303435"></rect>
+        <rect y="333" width="1595" height="46" fill="#303435"></rect>
+        <rect y="241" width="1595" height="46" fill="#303435"></rect>
+        <rect y="149" width="1595" height="46" fill="#303435"></rect>
+        <rect y="57" width="1595" height="46" fill="#303435"></rect>
+        <g>
+            <line opacity="1" x1="0" x2="0" y1="0" y2="390" stroke="#dddddd" stroke-width="1" stroke-dasharray="1 2" stroke-opacity="0.4"></line>
+            <line opacity="1" x1="125" x2="125" y1="0" y2="390" stroke="#dddddd" stroke-width="1" stroke-dasharray="1 2" stroke-opacity="0.4"></line>
+            <line opacity="1" x1="249" x2="249" y1="0" y2="390" stroke="#dddddd" stroke-width="1" stroke-dasharray="1 2" stroke-opacity="0.4"></line>
+            <line opacity="1" x1="374" x2="374" y1="0" y2="390" stroke="#dddddd" stroke-width="1" stroke-dasharray="1 2" stroke-opacity="0.4"></line>
+            <line opacity="1" x1="499" x2="499" y1="0" y2="390" stroke="#dddddd" stroke-width="1" stroke-dasharray="1 2" stroke-opacity="0.4"></line>
+            <line opacity="1" x1="623" x2="623" y1="0" y2="390" stroke="#dddddd" stroke-width="1" stroke-dasharray="1 2" stroke-opacity="0.4"></line>
+            <line opacity="1" x1="748" x2="748" y1="0" y2="390" stroke="#dddddd" stroke-width="1" stroke-dasharray="1 2" stroke-opacity="0.4"></line>
+            <line opacity="1" x1="873" x2="873" y1="0" y2="390" stroke="#dddddd" stroke-width="1" stroke-dasharray="1 2" stroke-opacity="0.4"></line>
+            <line opacity="1" x1="998" x2="998" y1="0" y2="390" stroke="#dddddd" stroke-width="1" stroke-dasharray="1 2" stroke-opacity="0.4"></line>
+            <line opacity="1" x1="1122" x2="1122" y1="0" y2="390" stroke="#dddddd" stroke-width="1" stroke-dasharray="1 2" stroke-opacity="0.4"></line>
+            <line opacity="1" x1="1247" x2="1247" y1="0" y2="390" stroke="#dddddd" stroke-width="1" stroke-dasharray="1 2" stroke-opacity="0.4"></line>
+            <line opacity="1" x1="1372" x2="1372" y1="0" y2="390" stroke="#dddddd" stroke-width="1" stroke-dasharray="1 2" stroke-opacity="0.4"></line>
+        </g>
+        <g transform="translate(0,0)">
+            <g transform="translate(0,0)" style="opacity: 1;">
+                <line x1="0" x2="0" y1="0" y2="-5" style="stroke: rgb(119, 119, 119); stroke-width: 1px; fill: rgb(255, 246, 230);"></line>
+                <text dominant-baseline="alphabetic" text-anchor="middle" transform="translate(0,-10) rotate(0)" style="fill: rgb(255, 246, 230); font-size: 12px; font-family: &quot;IBM Plex Mono&quot;, monospace;">0.0</text>
+            </g>
+            <g transform="translate(312,0)" style="opacity: 1;">
+                <line x1="0" x2="0" y1="0" y2="-5" style="stroke: rgb(119, 119, 119); stroke-width: 1px; fill: rgb(255, 246, 230);"></line>
+                <text dominant-baseline="alphabetic" text-anchor="middle" transform="translate(0,-10) rotate(0)" style="fill: rgb(255, 246, 230); font-size: 12px; font-family: &quot;IBM Plex Mono&quot;, monospace;">5.0k</text>
+            </g>
+            <g transform="translate(623,0)" style="opacity: 1;">
+                <line x1="0" x2="0" y1="0" y2="-5" style="stroke: rgb(119, 119, 119); stroke-width: 1px; fill: rgb(255, 246, 230);"></line>
+                <text dominant-baseline="alphabetic" text-anchor="middle" transform="translate(0,-10) rotate(0)" style="fill: rgb(255, 246, 230); font-size: 12px; font-family: &quot;IBM Plex Mono&quot;, monospace;">10k</text>
+            </g>
+            <g transform="translate(935,0)" style="opacity: 1;">
+                <line x1="0" x2="0" y1="0" y2="-5" style="stroke: rgb(119, 119, 119); stroke-width: 1px; fill: rgb(255, 246, 230);"></line>
+                <text dominant-baseline="alphabetic" text-anchor="middle" transform="translate(0,-10) rotate(0)" style="fill: rgb(255, 246, 230); font-size: 12px; font-family: &quot;IBM Plex Mono&quot;, monospace;">15k</text>
+            </g>
+            <g transform="translate(1247,0)" style="opacity: 1;">
+                <line x1="0" x2="0" y1="0" y2="-5" style="stroke: rgb(119, 119, 119); stroke-width: 1px; fill: rgb(255, 246, 230);"></line>
+                <text dominant-baseline="alphabetic" text-anchor="middle" transform="translate(0,-10) rotate(0)" style="fill: rgb(255, 246, 230); font-size: 12px; font-family: &quot;IBM Plex Mono&quot;, monospace;">20k</text>
+            </g>
+            <line style="stroke: transparent; stroke-width: 0px;" x1="0" x2="1377" y1="0" y2="0"></line>
+        </g>
+        <g transform="translate(0,390)">
+            <g transform="translate(0,0)" style="opacity: 1;">
+                <line x1="0" x2="0" y1="0" y2="5" style="stroke: rgb(119, 119, 119); stroke-width: 1px; fill: rgb(255, 246, 230);"></line>
+                <text dominant-baseline="text-before-edge" text-anchor="middle" transform="translate(0,10) rotate(0)" style="fill: rgb(255, 246, 230); font-size: 12px; font-family: &quot;IBM Plex Mono&quot;, monospace;">0.0</text>
+            </g>
+            <g transform="translate(312,0)" style="opacity: 1;">
+                <line x1="0" x2="0" y1="0" y2="5" style="stroke: rgb(119, 119, 119); stroke-width: 1px; fill: rgb(255, 246, 230);"></line>
+                <text dominant-baseline="text-before-edge" text-anchor="middle" transform="translate(0,10) rotate(0)" style="fill: rgb(255, 246, 230); font-size: 12px; font-family: &quot;IBM Plex Mono&quot;, monospace;">5.0k</text>
+            </g>
+            <g transform="translate(623,0)" style="opacity: 1;">
+                <line x1="0" x2="0" y1="0" y2="5" style="stroke: rgb(119, 119, 119); stroke-width: 1px; fill: rgb(255, 246, 230);"></line>
+                <text dominant-baseline="text-before-edge" text-anchor="middle" transform="translate(0,10) rotate(0)" style="fill: rgb(255, 246, 230); font-size: 12px; font-family: &quot;IBM Plex Mono&quot;, monospace;">10k</text>
+            </g>
+            <g transform="translate(935,0)" style="opacity: 1;">
+                <line x1="0" x2="0" y1="0" y2="5" style="stroke: rgb(119, 119, 119); stroke-width: 1px; fill: rgb(255, 246, 230);"></line>
+                <text dominant-baseline="text-before-edge" text-anchor="middle" transform="translate(0,10) rotate(0)" style="fill: rgb(255, 246, 230); font-size: 12px; font-family: &quot;IBM Plex Mono&quot;, monospace;">15k</text>
+            </g>
+            <g transform="translate(1247,0)" style="opacity: 1;">
+                <line x1="0" x2="0" y1="0" y2="5" style="stroke: rgb(119, 119, 119); stroke-width: 1px; fill: rgb(255, 246, 230);"></line>
+                <text dominant-baseline="text-before-edge" text-anchor="middle" transform="translate(0,10) rotate(0)" style="fill: rgb(255, 246, 230); font-size: 12px; font-family: &quot;IBM Plex Mono&quot;, monospace;">20k</text>
+            </g>
+            <line style="stroke: transparent; stroke-width: 0px;" x1="0" x2="1377" y1="0" y2="0"></line>
+            <text transform="translate(688.5, 40) rotate(0)" text-anchor="middle" style="dominant-baseline: central; font-size: 14px; fill: rgb(255, 246, 230); font-weight: 600; font-family: &quot;IBM Plex Mono&quot;, monospace;">User Count</text>
+        </g>
+        <g transform="translate(0,0)">
+            <g transform="translate(0,356)">
+                <text transform="translate(-10,0) rotate(0)" dominant-baseline="central" text-anchor="end" style="fill: rgb(255, 246, 230); font-size: 14px; font-family: &quot;IBM Plex Mono&quot;, monospace;" type="button" data-state="closed" class="Tooltip__Trigger-sc-5g0169-1 kpcNsK">Pipe Operator</text>
+            </g>
+            <g transform="translate(0,310)">
+                <text transform="translate(-10,0) rotate(0)" dominant-baseline="central" text-anchor="end" style="fill: rgb(255, 246, 230); font-size: 14px; font-family: &quot;IBM Plex Mono&quot;, monospace;" type="button" data-state="closed" class="Tooltip__Trigger-sc-5g0169-1 kpcNsK">Pattern Matching</text>
+            </g>
+            <g transform="translate(0,264)">
+                <text transform="translate(-10,0) rotate(0)" dominant-baseline="central" text-anchor="end" style="fill: rgb(255, 246, 230); font-size: 14px; font-family: &quot;IBM Plex Mono&quot;, monospace;" type="button" data-state="closed" class="Tooltip__Trigger-sc-5g0169-1 kpcNsK">Observable</text>
+            </g>
+            <g transform="translate(0,218)">
+                <text transform="translate(-10,0) rotate(0)" dominant-baseline="central" text-anchor="end" style="fill: rgb(255, 246, 230); font-size: 14px; font-family: &quot;IBM Plex Mono&quot;, monospace;" type="button" data-state="closed" class="Tooltip__Trigger-sc-5g0169-1 kpcNsK">Immutable Data Struc…</text>
+            </g>
+            <g transform="translate(0,172)">
+                <text transform="translate(-10,0) rotate(0)" dominant-baseline="central" text-anchor="end" style="fill: rgb(255, 246, 230); font-size: 14px; font-family: &quot;IBM Plex Mono&quot;, monospace;" type="button" data-state="closed" class="Tooltip__Trigger-sc-5g0169-1 kpcNsK">Better Date Manageme…</text>
+            </g>
+            <g transform="translate(0,126)">
+                <text transform="translate(-10,0) rotate(0)" dominant-baseline="central" text-anchor="end" style="fill: rgb(255, 246, 230); font-size: 14px; font-family: &quot;IBM Plex Mono&quot;, monospace;" type="button" data-state="closed" class="Tooltip__Trigger-sc-5g0169-1 kpcNsK">Standard Library</text>
+            </g>
+            <g transform="translate(0,80)">
+                <text transform="translate(-10,0) rotate(0)" dominant-baseline="central" text-anchor="end" style="fill: rgb(255, 246, 230); font-size: 14px; font-family: &quot;IBM Plex Mono&quot;, monospace;" type="button" data-state="closed" class="Tooltip__Trigger-sc-5g0169-1 kpcNsK">Static Typing</text>
+            </g>
+            <g transform="translate(0,34)">
+                <text transform="translate(-10,0) rotate(0)" dominant-baseline="central" text-anchor="end" style="fill: rgb(255, 246, 230); font-size: 14px; font-family: &quot;IBM Plex Mono&quot;, monospace;" type="button" data-state="closed" class="Tooltip__Trigger-sc-5g0169-1 kpcNsK">Comments as types</text>
+            </g>
+            <line style="stroke: transparent; stroke-width: 0px;" x1="0" x2="0" y1="0" y2="390"></line>
+        </g>
+        <g transform="translate(0, 342)">
+            <rect width="259" height="28" rx="1" ry="1" fill="url(#round1)" stroke-width="0" stroke="#6D3385,#8D4CA8" focusable="false"></rect>
+            <text x="129.5" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">4155</text>
+        </g>
+        <g transform="translate(0, 296)">
+            <rect width="274" height="28" rx="1" ry="1" fill="url(#round1)" stroke-width="0" stroke="#6D3385,#8D4CA8" focusable="false"></rect>
+            <text x="137" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">4394</text>
+        </g>
+        <g transform="translate(0, 250)">
+            <rect width="304" height="28" rx="1" ry="1" fill="url(#round1)" stroke-width="0" stroke="#6D3385,#8D4CA8" focusable="false"></rect>
+            <text x="152" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">4878</text>
+        </g>
+        <g transform="translate(0, 204)">
+            <rect width="329" height="28" rx="1" ry="1" fill="url(#round1)" stroke-width="0" stroke="#6D3385,#8D4CA8" focusable="false"></rect>
+            <text x="164.5" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">5274</text>
+        </g>
+        <g transform="translate(0, 158)">
+            <rect width="356" height="28" rx="1" ry="1" fill="url(#round1)" stroke-width="0" stroke="#6D3385,#8D4CA8" focusable="false"></rect>
+            <text x="178" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">5708</text>
+        </g>
+        <g transform="translate(0, 112)">
+            <rect width="396" height="28" rx="1" ry="1" fill="url(#round1)" stroke-width="0" stroke="#6D3385,#8D4CA8" focusable="false"></rect>
+            <text x="198" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">6350</text>
+        </g>
+        <g transform="translate(0, 66)">
+            <rect width="428" height="28" rx="1" ry="1" fill="url(#round1)" stroke-width="0" stroke="#6D3385,#8D4CA8" focusable="false"></rect>
+            <text x="214" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">6861</text>
+        </g>
+        <g transform="translate(0, 20)">
+            <rect width="1278" height="28" rx="1" ry="1" fill="url(#round1)" stroke-width="0" stroke="#6D3385,#8D4CA8" focusable="false"></rect>
+            <text x="203" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">20516</text>
+        </g>
+        <g transform="translate(259, 342)">
+            <rect width="99" height="28" rx="1" ry="1" fill="url(#round2)" stroke-width="0" stroke="#C185DA,#D5A7E8" focusable="false"></rect>
+            <text x="49.5" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">1592</text>
+        </g>
+        <g transform="translate(274, 296)">
+            <rect width="108" height="28" rx="1" ry="1" fill="url(#round2)" stroke-width="0" stroke="#C185DA,#D5A7E8" focusable="false"></rect>
+            <text x="54" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">1732</text>
+        </g>
+        <g transform="translate(304, 250)">
+            <rect width="123" height="28" rx="1" ry="1" fill="url(#round2)" stroke-width="0" stroke="#C185DA,#D5A7E8" focusable="false"></rect>
+            <text x="61.5" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">1975</text>
+        </g>
+        <g transform="translate(329, 204)">
+            <rect width="139" height="28" rx="1" ry="1" fill="url(#round2)" stroke-width="0" stroke="#C185DA,#D5A7E8" focusable="false"></rect>
+            <text x="69.5" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">2237</text>
+        </g>
+        <g transform="translate(356, 158)">
+            <rect width="163" height="28" rx="1" ry="1" fill="url(#round2)" stroke-width="0" stroke="#C185DA,#D5A7E8" focusable="false"></rect>
+            <text x="81.5" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">2618</text>
+        </g>
+        <g transform="translate(396, 112)">
+            <rect width="207" height="28" rx="1" ry="1" fill="url(#round2)" stroke-width="0" stroke="#C185DA,#D5A7E8" focusable="false"></rect>
+            <text x="103.5" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">3325</text>
+        </g>
+        <g transform="translate(428, 66)">
+            <rect width="259" height="28" rx="1" ry="1" fill="url(#round2)" stroke-width="0" stroke="#C185DA,#D5A7E8" focusable="false"></rect>
+            <text x="129.5" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">4164</text>
+        </g>
+        <g transform="translate(358, 342)">
+            <rect width="34" height="28" rx="1" ry="1" fill="url(#round3)" stroke-width="0" stroke="#47CFED,#2EB1CE" focusable="false"></rect>
+        </g>
+        <g transform="translate(382, 296)">
+            <rect width="40" height="28" rx="1" ry="1" fill="url(#round3)" stroke-width="0" stroke="#47CFED,#2EB1CE" focusable="false"></rect>
+            <text x="20" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">635</text>
+        </g>
+        <g transform="translate(427, 250)">
+            <rect width="51" height="28" rx="1" ry="1" fill="url(#round3)" stroke-width="0" stroke="#47CFED,#2EB1CE" focusable="false"></rect>
+            <text x="25.5" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">815</text>
+        </g>
+        <g transform="translate(468, 204)">
+            <rect width="58" height="28" rx="1" ry="1" fill="url(#round3)" stroke-width="0" stroke="#47CFED,#2EB1CE" focusable="false"></rect>
+            <text x="29" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">930</text>
+        </g>
+        <g transform="translate(519, 158)">
+            <rect width="64" height="28" rx="1" ry="1" fill="url(#round3)" stroke-width="0" stroke="#47CFED,#2EB1CE" focusable="false"></rect>
+            <text x="32" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">1020</text>
+        </g>
+        <g transform="translate(603, 112)">
+            <rect width="97" height="28" rx="1" ry="1" fill="url(#round3)" stroke-width="0" stroke="#47CFED,#2EB1CE" focusable="false"></rect>
+            <text x="48.5" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">1558</text>
+        </g>
+        <g transform="translate(687, 66)">
+            <rect width="156" height="28" rx="1" ry="1" fill="url(#round3)" stroke-width="0" stroke="#47CFED,#2EB1CE" focusable="false"></rect>
+            <text x="78" y="14" text-anchor="middle" dominant-baseline="central" fill-opacity="1" style="font-size: 12px; font-weight: 500; text-shadow: rgba(0, 0, 0, 0.35) 0px 2px 3px; font-family: &quot;IBM Plex Mono&quot;, monospace; fill: rgb(255, 246, 230); pointer-events: none;">2489</text>
+        </g>
+  </g>
+</svg>
